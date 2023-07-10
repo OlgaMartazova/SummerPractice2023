@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dairy</string>
+    <string name="delete_todo_title">Delete this todo?</string>
+    <string name="positive">Ok</string>
+    <string name="negative">Cancel</string>
+    <string name="new_todo">New Todo</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="info_todo">Todo info</string>
+    <string name="no_title">(No name)</string>
+    <string name="no_desc">(No description)</string>
+    <string name="arg_cell_id">cellId</string>
+    <string name="arg_todo_id">Id</string>
+    <string name="arg_selected_date">selectedDate</string>
+    <string name="raw_date_start">date_start</string>
+    <string name="raw_date_finish">date_finish</string>
+    <string name="raw_name">name</string>
+    <string name="raw_description">description</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_description">Description</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

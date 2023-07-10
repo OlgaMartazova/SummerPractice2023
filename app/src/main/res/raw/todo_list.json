@@ -1,0 +1,32 @@
+[
+  {
+    "date_start": "1688724000",
+    "date_finish": "1688725800",
+    "name": "Breakfast",
+    "description": "It's time for breakfast"
+  },
+  {
+    "date_start": "1688822100",
+    "date_finish": "1688825700",
+    "name": "Walking",
+    "description": "Time to walk"
+  },
+  {
+    "date_start": "1688858100",
+    "date_finish": "1688861700",
+    "name": "Reading",
+    "description": "Read a book before sleep"
+  },
+  {
+    "date_start": "1690675200",
+    "date_finish": "1690761600",
+    "name": "My birthday",
+    "description": "I'm 21 yo"
+  },
+  {
+    "date_start": "1688857878",
+    "date_finish": "1688860758",
+    "name": "Sleeping",
+    "description": "Go to bed"
+  }
+]
